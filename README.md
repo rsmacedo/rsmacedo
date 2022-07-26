@@ -1,8 +1,8 @@
 ## Rafael Macedo Profile
  <div>
    <a href="https://github.com/rsmacedo">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rsmacedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsmacedo&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rsmacedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsmacedo&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -25,6 +25,8 @@
  
  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
  
- ![](https://komarev.com/ghpvc/?username=rsmacedo)
+ <p align="center">
+![](https://komarev.com/ghpvc/?username=rsmacedo)
+</p>
 
 </div>
